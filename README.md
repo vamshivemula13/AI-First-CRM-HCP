@@ -239,7 +239,7 @@ http://localhost:5173
 **Vamshi Krishna**
 
 - GitHub: https://github.com/vamshivemula13
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: www.linkedin.com/in/vamshikrishnavemula 
 
 ---
 
